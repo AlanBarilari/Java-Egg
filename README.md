@@ -1,2 +1,2 @@
 # Java-Egg
-Some exercises i've been doing using the EggApp. 
+Some basic exercises i've been doing using the EggApp. 
